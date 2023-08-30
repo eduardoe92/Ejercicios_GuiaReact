@@ -1,0 +1,8 @@
+.Logo {
+    height: 10vmin;
+}
+
+.Pokeball {
+    height: 8vmin;
+    pointer-events: none;
+}

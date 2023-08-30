@@ -1,0 +1,28 @@
+.LogoFooter {
+    width: 120px;
+}
+
+.PokeballFooter {
+    width: 60px;
+}
+
+.text-footer {
+    color: #fff;
+    margin-right: 60px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .PokeballFooter {
+        animation: App-logo-spin infinite 15s linear;
+    }
+}
+
+@keyframes PokeballFooter-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
